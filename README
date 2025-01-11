@@ -1,8 +1,0 @@
-In-kernel web server
-
-server_kernel.c: Implementation of the web server in kernel mode
-server_user.c:   Implementation of the web server in user mode
-
-You can build them using `make kernel` and `make user`, respectively.
-
-More details: https://www.bluepuni.com/archives/in-kernel-web-server/
